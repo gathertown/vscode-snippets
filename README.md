@@ -1,5 +1,6 @@
 # VSCode Snippets
 Snippets are cool and make you feel like a wizard. Please contribute your own snippets to this repo if you have any!
+
 [More info about snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
 ## Setup
