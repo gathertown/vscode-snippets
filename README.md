@@ -6,8 +6,6 @@ Snippets are cool and make you feel like a wizard. Please contribute your own sn
 1. In VSCode, go to the Command Palette (`cmd+P`) > `Preferences: Configure User Snippets` > `New Global Snippets file...`
 2. Copy and paste the contents of `gather.code-snippets` into the new file and save
 
-<img width="616" alt="Screen Shot 2022-01-18 at 11 10 56 AM" src="https://user-images.githubusercontent.com/19613254/149975272-2b9486c5-2606-4255-bce9-d87a8b24a41f.png">
-
 ## Examples
 
 
